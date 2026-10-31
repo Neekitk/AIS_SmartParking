@@ -1,0 +1,27 @@
+# Сборка .NET
+/[Bb]in/
+/[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+# Visual Studio / Rider
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Локальные базы данных и логи
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite-journal
+*.log
+
+# Временные и резервные файлы
+*.tmp
+*.cache
+
+# ОС
+.DS_Store
+Thumbs.db
